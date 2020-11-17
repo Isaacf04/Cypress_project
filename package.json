@@ -1,0 +1,23 @@
+{
+  "name": "cypress_ci",
+  "version": "1.0.0",
+  "description": "cypress running using circle.ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress": "open cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaacf04/Cypress_project.git"
+  },
+  "author": "Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaacf04/Cypress_project/issues"
+  },
+  "homepage": "https://github.com/Isaacf04/Cypress_project#readme",
+  "dependencies": {
+    "cypress": "^5.6.0"
+  }
+}
