@@ -1,3 +1,2 @@
 # Cypress_project
-New Cypress Tests with circle CI integration build on new tests
-
+New Cypress Tests with circle and Cypress 
