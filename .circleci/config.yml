@@ -6,7 +6,7 @@ workflows:
   commit:
     jobs:
       - cypress/run:
-          record: false
+          record: true
   # nightly:
   #   # triggers:
     #   - schedule:
