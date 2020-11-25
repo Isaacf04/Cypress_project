@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "cypress": "open cypress"
+    "cypress": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -21,3 +21,4 @@
     "cypress": "^5.6.0"
   }
 }
+
